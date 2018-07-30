@@ -2,7 +2,7 @@
 layout: goblet_agm
 permalink: /goblet_agm_2018
 title: GOBLET AGM 2018
-header1: Workshop Pages for Students
+header1: GOBLET AGM Information
 header2: GOBLET AGM 2018
 image: /site_images/50983032_Goblet-Cup.jpg
 keywords: FAIR
