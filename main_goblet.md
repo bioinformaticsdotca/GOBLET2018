@@ -1,5 +1,5 @@
 ---
-layout: workshop_main_3day
+layout: goblet_agm
 permalink: /goblet_agm_2018
 title: GOBLET AGM 2018
 header1: Workshop Pages for Students
@@ -10,19 +10,19 @@ description: GOBLET Annual General meeting for 2018 focused on FAIR
 instructors: TBD
 length: 3 days
 ---
-# Meeting Details
+# Meeting Details <a id="Details"></a>
 
 The GOBLET AGM will be held in Toronto, Ontario, Canada at the Ontario Institute for Cancer Research on November 6th - 8th, 2018.  
 
-# Registration
+# Registration <a id="Registration"></a>
 
 GOBLET members in good standing (individual and institutional) are eligible to attend the meeting. Registration is open [here](https://goo.gl/forms/hzWYi36U3DALG6ji2).
 
-# Agenda
+# Agenda <a id="Agenda"></a>
 
 The agenda for the meeting is still being finalized.
 
-# Travel and Accommodation
+# Travel and Accommodation <a id="Logistics"></a>
 
 ## Where We Are
 
