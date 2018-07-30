@@ -16,7 +16,7 @@ The GOBLET AGM will be held in Toronto, Ontario, Canada at the Ontario Institute
 
 # Registration
 
-GOBLET members in good standing (individual and institutional) are eligible to attend the meeting. Registration is open here.
+GOBLET members in good standing (individual and institutional) are eligible to attend the meeting. Registration is open [here](https://goo.gl/forms/hzWYi36U3DALG6ji2).
 
 # Agenda
 
