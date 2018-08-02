@@ -20,7 +20,7 @@ GOBLET members in good standing (individual and institutional) are eligible to a
 
 # Agenda <a id="Agenda"></a>
 
-The agenda for the meeting is still being finalized. An initial draft can be found [here]()
+The agenda for the meeting is still being finalized. An initial draft can be found [here](https://docs.google.com/document/d/1gjrF0WafVMdqECSDvP_ozxEYPM7IH278jS4Z1dJPNzE/edit?usp=sharing)
 
 # Accommodation and Travel <a id="Logistics"></a>
 
