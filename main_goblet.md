@@ -12,7 +12,7 @@ length: 3 days
 ---
 # Meeting Details <a id="Details"></a>
 
-The GOBLET AGM will be held in Toronto, Ontario, Canada at the Ontario Institute for Cancer Research on November 6th - 8th, 2018.  
+The Global Organisation for Bioinformatics Learning, Education & Training (GOBLET) Annual General Meeting (AGM) will be held in Toronto, Ontario, Canada at the Ontario Institute for Cancer Research on November 6th - 8th, 2018.  
 
 # Registration <a id="Registration"></a>
 
@@ -20,14 +20,18 @@ GOBLET members in good standing (individual and institutional) are eligible to a
 
 # Agenda <a id="Agenda"></a>
 
-The agenda for the meeting is still being finalized.
+The agenda for the meeting is still being finalized. An initial draft can be found [here]()
 
-# Travel and Accommodation <a id="Logistics"></a>
+# Accommodation and Travel <a id="Logistics"></a>
 
 ## Where We Are
 
 <iframe width="600" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP3QCkhY&key=AIzaSyAY3MSfX-l_zVGMaSrEcq7w2wLJd4gVF5U" allowfullscreen></iframe>
+
+## Accommodations:
+
+A block of rooms have been booked at the [Chelsea Hotel](http://www.chelseatoronto.com/en/) at a rate of $167+tax ($196.26 total) per night. Please indicate on your registration your arrival and departure dates to hold your room. You will be responsible for all accommodation costs.
 
 ## Transportation To/From Toronto  
 
@@ -53,21 +57,16 @@ The trip downtown could take from 30 minutes to 1 hour depending on traffic. The
 
 Located on the western tip of a series of islands in Toronto Harbor, the island airport handles scheduled, private and corporate flights. [Porter Airlines](https://www.flyporter.com/en-ca/) and [Air Canada](https://www.aircanada.com/ca/en/aco/home.html) operate out of this airport. To get off the Island, you can walk through the new pedestrain tunnel or take the TCCA 1 ferry. A free shuttle bus can take you to Union Station.
 
-###	By Train
+### Visa Information
 
-Toronto is served by the VIA Rail System, the network that provides all rail service throughout Canada (with connections to the Amtrak system through Niagara Falls, New York). Trains arrive at Union Station in downtown Toronto. Union Station is located on Front Street, between Bay and University (across the street from the Royal York Hotel). The station is right on Toronto's subway line (locally known as the TTC), and is within walking distance of Rogers Centre, the CN Tower, the financial district and many downtown hotels, shops and restaurants. There are also taxis available outside Union Station.
+Most travelers to Canada require an Electronic Travel Authorization (eTA). To find out if you require a Visa or an eTA, visit [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html).
 
-###	By Bus
+# GOBLET Reimbursement Policy
 
-Buses arrive at the downtown Toronto Bus Terminal at Bay and Dundas. You can connect directly with the Public Transportation Subway System (locally known as the TTC) and travel to your hotel. There are also taxis available outside the Bus Terminal.
+GOBLET Gold and Platinum members are eligible for partial reimbursement of travel expenses.
 
-###	By Car
 
-This will of course depend on where you are driving from. Workshop location is 661 University Ave.
 
-## Accommodations:
-
-A block of rooms have been booked at the [Chelsea Hotel](http://www.chelseatoronto.com/en/) at a rate of $167+tax ($196.26 total) per night. Please indicate on your registration your arrival and departure dates to hold your room. You will be responsible for all accommodation costs.
 
 
 
