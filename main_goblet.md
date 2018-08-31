@@ -18,6 +18,21 @@ The Global Organisation for Bioinformatics Learning, Education & Training (GOBLE
 
 GOBLET members in good standing (individual and institutional) are eligible to attend the meeting. Registration is open [here](https://goo.gl/forms/hzWYi36U3DALG6ji2).
 
+## Costs Estimates
+
+Flight Estimates:  
+
+* London, UK to Toronto, CA: $650 - $800  
+* Brisbane, AUS to Toronto, CA: $1,600 - $1,800  
+* Zurich, CH to Toronto, CA: $800 - $900  
+* Cape Town, ZA to Toronto, CA: $1,400 - $1,600  
+
+Accommodations: $196.26/night  
+
+Meals: bioinformatics.ca will provide breakfast and lunch on AGM days and will sponsor one dinner and GOBLET will sponsor a second dinner. 
+
+Transit to hotel from airport: $15.55 on Union Pearson Express and public transit.  
+
 # Agenda <a id="Agenda"></a>
 
 The agenda for the meeting is still being finalized. An initial draft can be found [here](https://docs.google.com/document/d/1gjrF0WafVMdqECSDvP_ozxEYPM7IH278jS4Z1dJPNzE/edit?usp=sharing)
@@ -31,7 +46,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP
 
 ## Accommodations:
 
-A block of rooms have been booked at the [Chelsea Hotel](http://www.chelseatoronto.com/en/) at a rate of $167+tax ($196.26 total) per night. Please indicate on your registration your arrival and departure dates to hold your room. You will be responsible for all accommodation costs.
+A block of rooms have been booked at the [Chelsea Hotel](http://www.chelseatoronto.com/en/) at a rate of $167+tax ($196.26 total) per night. Please indicate on your registration your arrival and departure dates to hold your room. You will be responsible for all accommodation costs (GOBLET is reviewing feasibility of covering accommodation costs for Operational Board members/committee chairs). 
 
 ## Transportation To/From Toronto  
 
@@ -63,7 +78,7 @@ Most travelers to Canada require an Electronic Travel Authorization (eTA). To fi
 
 # GOBLET Reimbursement Policy
 
-GOBLET Gold and Platinum members are eligible for partial reimbursement of travel expenses.
+GOBLET Gold and Platinum members are eligible for partial reimbursement of travel expenses of up to 500 Euro.
 
 
 
