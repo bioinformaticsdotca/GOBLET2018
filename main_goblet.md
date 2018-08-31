@@ -18,7 +18,7 @@ The Global Organisation for Bioinformatics Learning, Education & Training (GOBLE
 
 GOBLET members in good standing (individual and institutional) are eligible to attend the meeting. Registration is open [here](https://goo.gl/forms/hzWYi36U3DALG6ji2).
 
-## Costs Estimates
+## Costs Estimates (CAD$)
 
 Flight Estimates:  
 
@@ -32,6 +32,8 @@ Accommodations: $196.26/night
 Meals: bioinformatics.ca will provide breakfast and lunch on AGM days and will sponsor one dinner and GOBLET will sponsor a second dinner. 
 
 Transit to hotel from airport: $15.55 on Union Pearson Express and public transit.  
+
+GOBLET Gold and Platinum members are eligible for partial reimbursement of travel expenses of up to 500 Euro.
 
 # Agenda <a id="Agenda"></a>
 
