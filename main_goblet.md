@@ -41,6 +41,10 @@ The agenda for the meeting is still being finalized. An initial draft can be fou
 
 # Accommodation and Travel <a id="Logistics"></a>
 
+## Visa Information
+
+Most travelers to Canada require an Electronic Travel Authorization (eTA). To find out if you require a Visa or an eTA, visit [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html).
+
 ## Where We Are
 
 <iframe width="600" height="450" frameborder="0" style="border:0"
@@ -74,9 +78,9 @@ The trip downtown could take from 30 minutes to 1 hour depending on traffic. The
 
 Located on the western tip of a series of islands in Toronto Harbor, the island airport handles scheduled, private and corporate flights. [Porter Airlines](https://www.flyporter.com/en-ca/) and [Air Canada](https://www.aircanada.com/ca/en/aco/home.html) operate out of this airport. To get off the Island, you can walk through the new pedestrain tunnel or take the TCCA 1 ferry. A free shuttle bus can take you to Union Station.
 
-### Visa Information
+## Visa Information
 
-Most travelers to Canada require an Electronic Travel Authorization (eTA). To find out if you require a Visa or an eTA, visit [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html).
+Most travelers to Canada require an Electronic Travel Authorization (eTA). To find out if you require a Visa or an eTA, visit [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html).
 
 # GOBLET Reimbursement Policy
 
