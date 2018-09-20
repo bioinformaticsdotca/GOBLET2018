@@ -33,7 +33,7 @@ Meals: bioinformatics.ca will provide breakfast and lunch on AGM days and will s
 
 Transit to hotel from airport: $15.55 on Union Pearson Express and public transit.  
 
-GOBLET Gold and Platinum members are eligible for partial reimbursement of travel expenses of up to 500 Euro.
+GOBLET Gold and Platinum members are eligible for partial reimbursement of travel expenses of up to 500 Euro. GOBLET will cover the AGM hotel costs for 1 representative for GOBLET organizational members.
 
 # Agenda <a id="Agenda"></a>
 
@@ -52,7 +52,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP
 
 ## Accommodations:
 
-A block of rooms have been booked at the [Chelsea Hotel](http://www.chelseatoronto.com/en/) at a rate of $167+tax ($196.26 total) per night. Please indicate on your registration your arrival and departure dates to hold your room. You will be responsible for all accommodation costs (GOBLET is reviewing feasibility of covering accommodation costs for Operational Board members/committee chairs). 
+A block of rooms have been booked at the [Chelsea Hotel](http://www.chelseatoronto.com/en/) at a rate of $167+tax ($196.26 total) per night. Please indicate on your registration your arrival and departure dates to hold your room. You will be responsible for all accommodation costs, however, GOBLET will cover the AGM hotel costs for 1 representative for GOBLET organizational members. 
 
 ## Transportation To/From Toronto  
 
